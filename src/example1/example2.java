@@ -31,7 +31,15 @@ public class example2 {
 	public void aftermethod() {
 		
 		System.out.println(" Aftermethod ");
+		System.out.println(" Aftermethod ");
+		System.out.println(" Aftermethod ");
+		System.out.println(" Aftermethod ");
+		System.out.println(" Aftermethod ");System.out.println(" Aftermethod ");
+		System.out.println(" Aftermethod ");
+		
 	}
+	
+	
 	
 	@BeforeClass
 	public void beforeclass() {
