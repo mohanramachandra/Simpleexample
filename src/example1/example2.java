@@ -44,5 +44,12 @@ public class example2 {
 	@BeforeClass
 	public void beforeclass() {
 		System.out.println(" before calss ");
+		System.out.println(" before calss ");
+		System.out.println(" before calss ");
+		System.out.println(" before calss ");
+		System.out.println(" before calss ");
+		System.out.println(" before calss ");
+		System.out.println(" before calss ");
+		System.out.println(" before calss ");
 	}
 }
